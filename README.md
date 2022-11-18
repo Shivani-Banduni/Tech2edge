@@ -7,4 +7,4 @@ Fetch data using API(Application Programming Interface).
 created carosal using bootstrap.
 Tech stack used- -HTML -CSS -Javascript -Reactjs
 Github link-https://github.com/Shivani-Banduni/Tech2edge
-netlify link- tech2edge-ui.netlify.app
+netlify link- https://tech2edge-ui.netlify.app/
